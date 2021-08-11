@@ -1,0 +1,39 @@
+{
+  "name": "myvido",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p $PORT",
+    "heroku-postbuild": "npm run build",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-brands-svg-icons": "^5.15.3",
+    "@fortawesome/free-regular-svg-icons": "^5.15.3",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "axios": "^0.21.1",
+    "facebook-video-link": "^1.0.2",
+    "fbdl-core": "^1.0.2",
+    "fbvideos": "^1.0.2",
+    "free-proxy": "^0.2.0",
+    "js-file-download": "^0.4.12",
+    "next": "11.0.1",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "tiktok-scraper": "^1.4.32",
+    "video-url-link": "^0.1.5",
+    "xmlhttprequest": "^1.8.0",
+    "ytdl-core": "^4.8.3"
+  },
+  "devDependencies": {
+    "eslint": "7.29.0",
+    "eslint-config-next": "11.0.1"
+  },
+  "engines": {
+    "node": "14.x"
+  }
+}
