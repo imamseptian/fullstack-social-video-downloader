@@ -1,5 +1,5 @@
 # Fullstack social video downloader repositories
-This repository is a combination of several repositories in the KostKu application. This repository consists of
+This repository is a combination of several repositories in the Simple social video downloader apps. This repository consists of
 
 ## next-video-downloader
 Simple web for frontend + backend to help users download youtube,twitter,and tiktok videos.
